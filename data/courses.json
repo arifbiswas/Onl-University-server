@@ -1,0 +1,21 @@
+[
+    {
+        "courses_id": 1,
+        "name": "Computer Science and Engineering (CSE)",
+        "image": "https://blog-digital.aakash.ac.in/wp-content/uploads/2019/07/CSE.jpg",
+        "description": "Today everyone depends on software, apps, and computer founded functions. In depending on this situation Computer Science and Engineering shorty known as CSE is the most demandable course.Many universities academically provided this course in graduation based and under graduation based. All of the universities designed this course under four year undergraduate program both on software-based and hardware-based,  functions.",
+        "courses_length": "1 years",
+        "total_exam": "8 Semester"
+    } ,
+    {
+        "courses_id": 2,
+        "name": "Fashion Design or Apparel Merchandising",
+
+        "image": "https://media.istockphoto.com/vectors/master-sewing-clothes-character-people-set-woman-work-dressmaker-vector-id1131788801?k=20&m=1131788801&s=612x612&w=0&h=oT6lCtN4dRvZnnWTRl54pNJF_w1Yx4WuJx3yU3O-oec=",
+
+        "description": "If you have creative knowledge and creative thinking, then the Fashion Design subject will be the best choice for you. It is an originating subject and generating something new activity. The students who love to apply new design and ideas on clothing and its accessories are the best choice for this subject. It is a desirable and structure-based course.According to the Bangladesh perspective, Fashion design department takes four years to complete this degree. For shining with life, the more demanding course helps you to get more successful the job market.",
+
+        "courses_length": "1.5 years",
+        "total_exam": "8 Semester"
+    }
+]
