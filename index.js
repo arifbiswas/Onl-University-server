@@ -10,5 +10,5 @@ app.get('/',(req,res)=>{
 })
 
 app.listen(port,()=>{
-    console.log('this is site run are',5000);
+    console.log('this is site run are',port);
 })
