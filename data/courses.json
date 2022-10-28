@@ -1,6 +1,7 @@
 [
     {
         "courses_id": 1,
+        "_id": 1,
         "name": "Computer Science and Engineering (CSE)",
         "image": "https://blog-digital.aakash.ac.in/wp-content/uploads/2019/07/CSE.jpg",
         "description": "Today everyone depends on software, apps, and computer founded functions. In depending on this situation Computer Science and Engineering shorty known as CSE is the most demandable course.Many universities academically provided this course in graduation based and under graduation based. All of the universities designed this course under four year undergraduate program both on software-based and hardware-based,  functions.",
@@ -9,6 +10,7 @@
     } ,
     {
         "courses_id": 2,
+        "_id": 2,
         "name": "Fashion Design or Apparel Merchandising",
 
         "image": "https://media.istockphoto.com/vectors/master-sewing-clothes-character-people-set-woman-work-dressmaker-vector-id1131788801?k=20&m=1131788801&s=612x612&w=0&h=oT6lCtN4dRvZnnWTRl54pNJF_w1Yx4WuJx3yU3O-oec=",
@@ -17,5 +19,101 @@
 
         "courses_length": "1.5 years",
         "total_exam": "8 Semester"
+    },
+    {
+        "courses_id": 3,
+        "_id": 3,
+        "name": " Electrical and Electronic Engineering (EEE)",
+
+        "image": "https://images.shiksha.com/mediadata/images/articles/1538648745phpWfy7Lc.jpeg",
+
+        "description": "It is one of the best courses in the engineering field. If you want to build a career in the engineering field then you should choose the Electrical and Electronic Engineering subjects. It is an ancient popular electronic engineering education. The university provides four years based under the graduation program in this field. There are so many advantages for get a job in this sector.",
+
+        "courses_length": "2 years",
+        "total_exam": "14 Semester"
+    },
+    {
+        "courses_id": 4,
+        "_id": 4,
+        "name": "Marketing",
+
+        "image": "https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-1218421190_472791_dz1c6d.jpg",
+
+        "description": "From birth to death marketing is everything. If you want to explore yourself, then you should market it. Otherwise, nobody is doesn’t show you. Like that when any products are launching in the market it must be marketing everywhere. Nowadays for this reason the demand for marketing is increasing day by day not only in Bangladesh but also all over the world. So, I think you should build your career in the marketing field. At the same time, the marketing profession is progressive, hopeful, challenging, and venturesome because a marketer creates a market to buy or sell a product all over the consumers. It is the course where students have to be publishing their presenting skills.",
+
+        "courses_length": "6 month",
+        "total_exam": "12 Semester"
+    },
+    {
+        "courses_id": 5,
+        "_id": 5,
+        "name": "Bachelor of Pharmacy",
+
+        "image": "https://cache.careers360.mobi/media/article_images/2019/1/22/B-Pharmacy-admission-process-in-Maharashtra.jpg",
+
+        "description": "It also most the demanding subject for jobs in Bangladesh. To get a job it is a very amazing subject. The students who are self-interested in chemistry and biology, the pharmacy subject are the best choice for them. It is a degree of under graduation program in four years based field of pharmacy education. The students who don’t want to be a doctor and want to build a career in this field can choose this course.After completing the graduation program, a student can easily practice in this field as a pharmacist. There are a great number of job opportunities both private and public sectors as a graduate student.",
+
+        "courses_length": "1.5 years",
+        "total_exam": "9 Semester"
+    },
+    {
+        "courses_id": 6,
+        "_id": 6,
+        "name": "Civil Engineering",
+
+        "image": "https://i.pinimg.com/originals/3f/af/92/3faf92b0ec8e7803f92e24068d04734e.jpg",
+
+        "description": "It is also another best course in the engineering field. According to the private and public organization, you can easily start your career in this field and also you get promotions easily. It is an engineering course that negotiates with the design and manufacturing of the roads, culvert, lowland, railways, and so on. It is also an ancient educational course and four years based undergraduate degree.",
+
+        "courses_length": "2 years",
+        "total_exam": "8 Semester"
+    },
+    {
+        "courses_id": 7,
+        "_id": 7,
+        "name": "Economics",
+
+        "image": "https://www.centralbanking.com/sites/default/files/styles/landscape_750_463/public/2022-08/Econ-dept-GettyImages-982535840.jpg?h=c54da146&itok=skqfbwXO",
+
+        "description": "The royal subject is all of the universities are Economics. It is a royal course and also social science course that provides education on goods and services. According to the world economic organization, a student in this field can change the world economy and the nation’s economy.If you are interested in financial systems then you can choose this course. The students of this field can easily contribute to the economy and also build your career in finance-related fields. It is also four years based educational degree.",
+
+        "courses_length": "1 years",
+        "total_exam": "6 Semester"
+    },
+    {
+        "courses_id": 8,
+        "_id": 8,
+        "name": "Sociology",
+
+        "image": "https://leverageedu.com/blog/wp-content/uploads/2020/06/MA-Sociology-syllabus.png",
+
+        "description": "If you want to build your career in an international organization like UNDP, UNESCO, UNICEF then it is the best course for you. It is an outstanding field to knowing society, and changing social systems. The development of the medical sociology, the course deeply discusses that.This course makes a student able to be solving the many problems among society like psycho-social problems and so on. It also supports to solve problems among communities. That’s why the student of sociology course is called a doctor of society and also known to be a society of doctor.",
+
+        "courses_length": "1.5 years",
+        "total_exam": "8 Semester"
+    },
+    {
+        "courses_id": 9,
+        "_id": 9,
+        "name": "Architecture",
+
+        "image": "https://i.pinimg.com/736x/a3/ed/71/a3ed71def3bc46b89354b0f68f660651.jpg",
+
+        "description": "The demand of Architecture subject is increasing day by day. Most of the universities provide bachelors and master’s degrees in this field. A student brings to pass the bachelor’s degree program in four years. The students who are interested in drawing, crafts, painting, handicrafts, designing buildings or drawing building operations can choose this course.",
+
+        "courses_length": "1.5 years",
+        "total_exam": "12 Semester"
+    },
+    {
+        "courses_id": 10,
+        "_id": 10,
+        "name": " Environmental Science",
+
+        "image": "https://www.bestdegreeprograms.org/wp-content/uploads/2020/06/environmental-protection-326923_1280.jpg",
+
+        "description": "Environmental Science It is the top-ranked subject for the students of science background. There are so many posts and departments of this background. Nowadays we are dependent on technology-based systems. So, the need for this course is increasing day by day. The research of this field also increasing and the students of Bangladesh are more interesting in researchable.After complete, the graduation degree about this Environmental Science course, students gets more job opportunity about this field because there are need more manpower for research and analysis about Environmental Science.",
+
+        "courses_length": "2 years",
+        "total_exam": "15 Semester"
     }
 ]

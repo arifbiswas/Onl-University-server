@@ -1,0 +1,51 @@
+[
+    { 
+        "_id": 1,
+        "name": "Computer Science and Engineering (CSE)"
+
+    },
+    {
+        "_id": 2,
+        "name": "Fashion Design or Apparel Merchandising"
+       
+    },
+    {
+        "_id": 3,
+        "name": " Electrical and Electronic Engineering (EEE)"
+       
+    },
+    {
+        "_id": 4,
+        "name": "Marketing"
+      
+    },
+    {
+        "_id": 5,
+        "name": "Bachelor of Pharmacy"
+        
+    },
+    {
+        "_id": 6,
+        "name": "Civil Engineering"
+       
+    },
+    {
+        "_id": 7,
+        "name": "Economics"
+      
+    },
+    {
+        "_id": 8,
+        "name": "Sociology"
+       
+    },
+    {
+        "_id": 9,
+        "name": "Architecture"
+       
+    },
+    {
+        "_id": 10,
+        "name": " Environmental Science"
+    }
+]
